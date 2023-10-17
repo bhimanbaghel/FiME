@@ -1,0 +1,1 @@
+This is the archive data found in original dataset - https://github.com/LCS2-IIITD/MEMEX_Meme_Evidence
