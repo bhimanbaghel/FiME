@@ -21,7 +21,7 @@ class DataGathere:
     def getTextMEMEX(self, dataset):
         textDict = {}
         explanationDict = {}
-        for fileType in ['train', 'test']:    
+        for fileType in ['test']:    
             csvPath = os.path.join(self.rawDataPath, dataset, 'MemeExplanationData', fileType + '.csv')
             df = pd.read_csv(csvPath, encoding='utf-8')
             imageNames = df['image'].to_list()
@@ -51,7 +51,7 @@ class DataGathere:
     def getTextHVV(self, dataset):
         textDict = {}
         explanationDict = {}
-        for fileType in ["train.jsonl", "val.jsonl"]:
+        for fileType in ["val.jsonl"]:
             df = pd.read_json(path_or_buf=os.path.join(self.rawDataPath, dataset, "annotations_HVV", fileType), lines=True, encoding='utf-8')
             # print(df.head())
             for index, row in df.iterrows():
