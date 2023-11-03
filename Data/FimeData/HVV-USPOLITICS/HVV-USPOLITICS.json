@@ -2,6 +2,7 @@
   "HVV-USPOLITICS_memes_1003.png": {
     "explanation": "",
     "imgPath": "../../Data/FimeData/HVV-USPOLITICS/img/HVV-USPOLITICS_memes_1003.png",
+    "llava-raw-explain": "The meme poster is trying to convey a humorous and lighthearted message by combining two different images of President Obama and a soldier. The image features President Obama placing a medal on a soldier's neck, while the soldier is also wearing a medal. The meme poster is captioned with a quote, \"I give you metal for smelling so good,\" which adds a playful and sarcastic touch to the scene. The combination of these two images and the caption creates a comical and entertaining visual that can be appreciated by those who find humor in the juxtaposition of the two distinct situations.",
     "text": {
       "caption": "",
       "entityRole": {
@@ -22,6 +23,7 @@
   "HVV-USPOLITICS_memes_1014.png": {
     "explanation": "",
     "imgPath": "../../Data/FimeData/HVV-USPOLITICS/img/HVV-USPOLITICS_memes_1014.png",
+    "llava-raw-explain": "The meme poster is trying to convey a political message by placing a picture of President Obama's head on a hanging man's body. This juxtaposition creates a visual representation of the president's perceived \"hangman\" status, which is a reference to the controversial drone strikes and the use of force in certain situations. The image is meant to evoke a sense of concern or disapproval towards the president's actions and policies.",
     "text": {
       "caption": "",
       "entityRole": {
@@ -47,6 +49,7 @@
   "HVV-USPOLITICS_memes_1061.png": {
     "explanation": "",
     "imgPath": "../../Data/FimeData/HVV-USPOLITICS/img/HVV-USPOLITICS_memes_1061.png",
+    "llava-raw-explain": "The meme poster is trying to convey a humorous and sarcastic view of President Obama, using a picture of him with a birthday cake. The caption below the picture reads, \"16,898 I love Barack Obama. Understands the power of his own birthday.\" This meme is likely poking fun at the president's birthday celebrations and the attention he receives, as well as the idea that he is a powerful figure. The poster is using humor to make a statement and engage with the audience in a lighthearted manner.",
     "text": {
       "caption": "",
       "entityRole": {
@@ -66,6 +69,7 @@
   "HVV-USPOLITICS_memes_1072.png": {
     "explanation": "",
     "imgPath": "../../Data/FimeData/HVV-USPOLITICS/img/HVV-USPOLITICS_memes_1072.png",
+    "llava-raw-explain": "The meme poster is trying to convey a humorous and lighthearted message by combining two different images of a man and a president. The man is holding a sign that says \"Why are you still holding my Mike Pence out?\" while the president is sitting in a chair. This meme is likely meant to be a play on words and a reference to the former Vice President Mike Pence, who was known for his strict stance on certain issues. The meme poster is trying to create a funny and entertaining visual that combines the seriousness of a president with the lightheartedness of a man holding a sign.",
     "text": {
       "caption": "",
       "entityRole": {
@@ -85,6 +89,7 @@
   "HVV-USPOLITICS_memes_1074.png": {
     "explanation": "",
     "imgPath": "../../Data/FimeData/HVV-USPOLITICS/img/HVV-USPOLITICS_memes_1074.png",
+    "llava-raw-explain": "The meme poster is trying to convey a humorous and satirical message by juxtaposing two images of President Obama, one with a black half and the other with a white half. The intention is to create a visual pun on the phrase \"the black half of Obama giving the white half of Obama the right to say the N word.\" This meme is meant to be a lighthearted commentary on the controversial use of the N-word and the racial implications surrounding it. The poster is likely trying to evoke laughter and provoke thought about the sensitive issue of racial language and its impact on society.",
     "text": {
       "caption": "",
       "entityRole": {
