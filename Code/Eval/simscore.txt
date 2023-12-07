@@ -1,0 +1,36 @@
+Rouge1 MEMEX-MCC
+explanation    llava-raw-explain    llava-p2-explain    llava-p3-explain
+0.0        0.12531449894501523        0.12835463995965146        0.0
+0.0        0.0        0.5210209337390888        0.0
+0.0        0.0        0.0        0.0
+0.0        0.0        0.0        0.0
+Rouge1 HVV-COVID19
+explanation    llava-raw-explain    llava-p2-explain    llava-p3-explain
+0.0        0.0        0.0        0.0
+0.0        0.0        0.5163076326259205        0.5107419401898955
+0.0        0.0        0.0        0.6183585369903298
+0.0        0.0        0.0        0.0
+Rouge1 HVV-USPOLITICS
+explanation    llava-raw-explain    llava-p2-explain    llava-p3-explain
+0.0        0.0        0.0        0.0
+0.0        0.0        0.5246055530673022        0.5150978021619477
+0.0        0.0        0.0        0.6215655400859961
+0.0        0.0        0.0        0.0
+RougeL MEMEX-MCC
+explanation    llava-raw-explain    llava-p2-explain    llava-p3-explain
+0.0        0.09925525585127738        0.10127468261596534        0.0
+0.0        0.0        0.3698397475990174        0.0
+0.0        0.0        0.0        0.0
+0.0        0.0        0.0        0.0
+RougeL HVV-COVID19
+explanation    llava-raw-explain    llava-p2-explain    llava-p3-explain
+0.0        0.0        0.0        0.0
+0.0        0.0        0.3640889445888776        0.35681791535203905
+0.0        0.0        0.0        0.4651133436303607
+0.0        0.0        0.0        0.0
+RougeL HVV-USPOLITICS
+explanation    llava-raw-explain    llava-p2-explain    llava-p3-explain
+0.0        0.0        0.0        0.0
+0.0        0.0        0.3684885843768598        0.36220618348974615
+0.0        0.0        0.0        0.46608875415522827
+0.0        0.0        0.0        0.0
